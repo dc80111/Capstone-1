@@ -1,4 +1,4 @@
 # Capstone-1
 Capstone 1 excel and SQL 
-capstone_1 video
+capstone_1 video 10 min presentation link
 https://yearuptemp-my.sharepoint.com/:v:/g/personal/dclark1_my_yearupunited_org/IQDN_W6bHJI8QJUy6eNfRVN2ATdlllGI6CC9egW20oPFz5U?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=d0rGBO
